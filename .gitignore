@@ -1,0 +1,4 @@
+cv_tracker_env/
+*.pt
+__pycache__/
+output_tracked.mp4
