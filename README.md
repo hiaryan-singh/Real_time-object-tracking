@@ -16,6 +16,11 @@ This project implements an end-to-end real-time computer vision pipeline for obj
 - Ultralytics YOLO (`ultralytics`)
 - NumPy
 
+## How to Run
+1. Download the project
+2. Install the requirements
+3. Run the main file
+
 ## ⚙️ Installation & Usage
 
 ### 1. Set Up Environment
